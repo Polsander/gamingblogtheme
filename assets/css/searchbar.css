@@ -1,0 +1,23 @@
+.screen-reader-text {
+    display: none;
+}
+
+input#s {
+    text-decoration: none;
+    border: none;
+    border: solid;
+    border-color: rgb(236, 112, 112);
+    box-shadow: -2px 3px rgba(102, 99, 99, 0.568);
+    border-radius : 5px;
+}
+
+input#searchsubmit {
+    border: none;
+    
+    box-shadow: -2px 3px rgba(102, 99, 99, 0.568);
+    border-radius: 5px;
+    padding-top: 2.5px;
+    padding-bottom: 3px;
+    background-color: mediumblue;
+    color: white;
+}
